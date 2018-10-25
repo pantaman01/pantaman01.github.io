@@ -11,7 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# How to Git hub?
+* Go to Github.com/help for help
+* Make sure you check out stack overflow and google for answers to questions that trouble
+* youtube this shit
 ## Header 2
 ### Header 3
 
