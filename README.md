@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WElcome to my World! The rule is simple, your right to enjoy life ends when it impedes on someone elses right. The someone else here includes the planet we live in and all its inhabitants.
 
 You can use the [editor on GitHub](https://github.com/pantaman01/pantaman01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
